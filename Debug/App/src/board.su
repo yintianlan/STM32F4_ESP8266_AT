@@ -1,0 +1,17 @@
+board.c:81:24:FindBoardGPIOsMapItem	16	static
+board.c:88:13:enablePortClock	56	static
+board.c:110:13:IsCurrentPortPinIRQ	32	static
+board.c:128:13:DoExtiIrqHandler	24	static
+board.c:159:6:EXTI0_IRQHandler	8	static
+board.c:163:6:EXTI1_IRQHandler	8	static
+board.c:167:6:EXTI2_IRQHandler	8	static
+board.c:171:6:EXTI3_IRQHandler	8	static
+board.c:175:6:EXTI4_IRQHandler	8	static
+board.c:179:6:EXTI9_5_IRQHandler	8	static
+board.c:197:6:EXTI15_10_IRQHandler	8	static
+board.c:219:6:boardGpioInit	40	static
+board.c:283:6:boardGpioIrqEnable	40	static
+board.c:318:6:boardGpioIrqDisable	32	static
+board.c:350:6:boardGpioOutSet	24	static
+board.c:362:7:boardGpioInputGet	24	static
+board.c:376:6:boardInit	4	static

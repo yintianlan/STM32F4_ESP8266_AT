@@ -1,0 +1,7 @@
+tos_time.c:20:18:tos_systick_get	32	static
+tos_time.c:31:14:tos_systick_set	32	static
+tos_time.c:40:18:tos_tick2millisec	32	static
+tos_time.c:45:18:tos_millisec2tick	32	static
+tos_time.c:50:17:tos_sleep_ms	24	static
+tos_time.c:55:28:time_hmsm2tick	48	static
+tos_time.c:62:17:tos_sleep_hmsm	32	static

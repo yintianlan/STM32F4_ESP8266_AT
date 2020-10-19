@@ -1,0 +1,10 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_event.c:22:17:tos_event_create	16	static
+tos_event.c:33:17:tos_event_destroy	24	static
+tos_event.c:56:16:event_is_match	24	static
+tos_event.c:72:17:tos_event_pend	40	static
+tos_event.c:125:20:event_do_post	40	static
+tos_event.c:159:17:tos_event_post	16	static
+tos_event.c:164:17:tos_event_post_keep	16	static

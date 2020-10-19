@@ -1,0 +1,9 @@
+core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+core_cm4.h:2022:26:SysTick_Config	16	static
+port_c.c:46:15:port_cpu_reset	8	static
+port_c.c:51:15:port_systick_config	16	static
+port_c.c:56:15:port_systick_priority_set	16	static
+port_c.c:99:15:port_sleep_mode_enter	8	static
+port_c.c:108:15:port_stop_mode_enter	8	static
+port_c.c:113:15:port_standby_mode_enter	8	static

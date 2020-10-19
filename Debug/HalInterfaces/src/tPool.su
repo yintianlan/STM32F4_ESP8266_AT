@@ -1,0 +1,13 @@
+tPool.c:40:10:tpGetUuidFromeStr	32	static
+tPool.c:64:6:tpSetName	24	static
+tPool.c:81:13:tPoolInit	16	static
+tPool.c:98:16:findPoolByName	24	static
+tPool.c:141:16:findPoolByHandler	24	static
+tPool.c:165:13:tPoolCreate	48	static
+tPool.c:246:13:tPoolDelete	24	static
+tPool.c:279:13:tPoolDeleteAll	16	static
+tPool.c:299:8:tPoolGetFirstRefAddr	24	static
+tPool.c:310:8:tPoolGetOneRefAddr	32	static
+tPool.c:355:13:tPoolGetNextAvailableItem	32	static
+tPool.c:390:13:tPoolPutConfirm	24	static
+tPool.c:416:10:tPoolGetOverrunCountAddr	24	static

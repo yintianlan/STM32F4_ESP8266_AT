@@ -1,0 +1,2 @@
+tos_at_socket_lib.c:21:1:inet_aton	56	static
+tos_at_socket_lib.c:112:7:inet_addr	24	static

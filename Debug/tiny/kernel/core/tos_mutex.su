@@ -1,0 +1,17 @@
+tos_list.h:80:24:_list_add	24	static
+tos_list.h:88:24:_list_del	16	static
+tos_list.h:99:32:tos_list_init	16	static
+tos_list.h:105:32:tos_list_add	16	static
+tos_list.h:115:32:tos_list_del	16	static
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_mutex.c:22:24:mutex_old_owner_release	24	static
+tos_mutex.c:42:24:mutex_fresh_owner_mark	16	static
+tos_mutex.c:51:24:mutex_new_owner_mark	24	static
+tos_mutex.c:64:14:mutex_release	16	static
+tos_mutex.c:70:17:tos_mutex_create	16	static
+tos_mutex.c:86:17:tos_mutex_destroy	24	static
+tos_mutex.c:112:17:tos_mutex_pend_timed	40	static
+tos_mutex.c:162:17:tos_mutex_pend	16	static
+tos_mutex.c:167:17:tos_mutex_post	24	static

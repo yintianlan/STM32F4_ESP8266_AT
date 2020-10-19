@@ -1,0 +1,7 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_barrier.c:20:17:tos_barrier_create	16	static
+tos_barrier.c:35:17:tos_barrier_destroy	24	static
+tos_barrier.c:56:17:tos_barrier_pend	24	static
+tos_barrier.c:93:17:tos_barrier_reset	24	static

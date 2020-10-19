@@ -1,0 +1,8 @@
+tos_at_socket_prv.c:24:5:socket_id_sanity_check	16	static
+tos_at_socket_prv.c:35:5:socket_id_set_sanity_check	16	static
+tos_at_socket_prv.c:48:5:socket_id_alloc	16	static
+tos_at_socket_prv.c:65:6:socket_id_free	16	static
+tos_at_socket_prv.c:71:6:socket_set_protocol	16	static
+tos_at_socket_prv.c:76:13:socket_get_protocol	16	static
+tos_at_socket_prv.c:81:6:socket_set_fd	16	static
+tos_at_socket_prv.c:86:5:socket_get_fd	16	static

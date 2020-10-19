@@ -1,0 +1,9 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_countdownlatch.c:20:17:tos_countdownlatch_create	16	static
+tos_countdownlatch.c:31:17:tos_countdownlatch_destroy	24	static
+tos_countdownlatch.c:52:17:tos_countdownlatch_pend_timed	40	static
+tos_countdownlatch.c:85:17:tos_countdownlatch_pend	16	static
+tos_countdownlatch.c:90:17:tos_countdownlatch_post	24	static
+tos_countdownlatch.c:119:17:tos_countdownlatch_reset	24	static

@@ -1,0 +1,12 @@
+sal_module_wrapper.c:5:5:tos_sal_module_register	16	static
+sal_module_wrapper.c:15:5:tos_sal_module_register_default	4	static
+sal_module_wrapper.c:22:5:tos_sal_module_init	8	static
+sal_module_wrapper.c:30:5:tos_sal_module_parse_domain	24	static
+sal_module_wrapper.c:38:5:tos_sal_module_connect	24	static
+sal_module_wrapper.c:46:5:tos_sal_module_send	24	static
+sal_module_wrapper.c:54:5:tos_sal_module_recv	24	static
+sal_module_wrapper.c:62:5:tos_sal_module_recv_timeout	32	static
+sal_module_wrapper.c:70:5:tos_sal_module_sendto	40	static
+sal_module_wrapper.c:78:5:tos_sal_module_recvfrom	24	static
+sal_module_wrapper.c:86:5:tos_sal_module_recvfrom_timeout	32	static
+sal_module_wrapper.c:94:5:tos_sal_module_close	16	static

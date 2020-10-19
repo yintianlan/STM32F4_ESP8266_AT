@@ -1,0 +1,10 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_sem.c:22:17:tos_sem_create_max	16	static
+tos_sem.c:34:17:tos_sem_create	16	static
+tos_sem.c:39:17:tos_sem_destroy	24	static
+tos_sem.c:60:20:sem_do_post	24	static
+tos_sem.c:88:17:tos_sem_post	16	static
+tos_sem.c:93:17:tos_sem_post_all	16	static
+tos_sem.c:98:17:tos_sem_pend	40	static

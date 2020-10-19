@@ -1,0 +1,4 @@
+iDebug.c:34:13:stdout_putf	16	static
+iDebug.c:40:6:iDebugInit	8	static
+iDebug.c:54:6:iDebugPrint	28	static
+iDebug.c:69:13:iDebugPrintCore	24	static

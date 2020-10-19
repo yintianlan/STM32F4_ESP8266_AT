@@ -1,0 +1,14 @@
+tos_pm.c:39:16:pm_device_is_registered	24	static
+tos_pm.c:51:17:tos_pm_device_register	16	static
+tos_pm.c:68:14:pm_init	8	static
+tos_pm.c:74:24:pm_cpu_sleep_mode_enter	8	static
+tos_pm.c:79:24:pm_cpu_stop_mode_enter	8	static
+tos_pm.c:84:24:pm_cpu_standby_mode_enter	8	static
+tos_pm.c:89:14:pm_cpu_lpwr_mode_enter	16	static
+tos_pm.c:104:27:pm_cpu_lpwr_mode_get	4	static
+tos_pm.c:109:14:pm_idle_pwr_mgr_mode_set	16	static
+tos_pm.c:114:13:pm_idle_pwr_mgr_mode_is_sleep	4	static
+tos_pm.c:119:13:pm_idle_pwr_mgr_mode_is_tickless	4	static
+tos_pm.c:124:14:pm_power_manager	8	static
+tos_pm.c:137:13:pm_device_suspend	16	static
+tos_pm.c:149:13:pm_device_resume	16	static

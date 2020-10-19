@@ -1,0 +1,14 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_rwlock.c:22:17:tos_rwlock_create	24	static
+tos_rwlock.c:47:17:tos_rwlock_destroy	24	static
+tos_rwlock.c:69:17:tos_rwlock_rpend_timed	56	static
+tos_rwlock.c:126:17:tos_rwlock_rpend	16	static
+tos_rwlock.c:131:17:tos_rwlock_rpend_try	24	static
+tos_rwlock.c:160:17:tos_rwlock_wpend_timed	56	static
+tos_rwlock.c:221:17:tos_rwlock_wpend	16	static
+tos_rwlock.c:226:17:tos_rwlock_wpend_try	24	static
+tos_rwlock.c:250:17:tos_rwlock_rpost	24	static
+tos_rwlock.c:275:17:tos_rwlock_wpost	24	static
+tos_rwlock.c:298:17:tos_rwlock_post	24	static

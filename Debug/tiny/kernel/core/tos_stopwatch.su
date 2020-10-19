@@ -1,0 +1,12 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_stopwatch.c:20:17:tos_stopwatch_create	24	static
+tos_stopwatch.c:30:17:tos_stopwatch_destroy	24	static
+tos_stopwatch.c:41:17:tos_stopwatch_countdown	40	static
+tos_stopwatch.c:54:17:tos_stopwatch_countdown_ms	24	static
+tos_stopwatch.c:65:14:tos_stopwatch_delay	32	static
+tos_stopwatch.c:75:14:tos_stopwatch_delay_ms	24	static
+tos_stopwatch.c:83:18:tos_stopwatch_remain	32	static
+tos_stopwatch.c:98:18:tos_stopwatch_remain_ms	32	static
+tos_stopwatch.c:113:13:tos_stopwatch_is_expired	32	static

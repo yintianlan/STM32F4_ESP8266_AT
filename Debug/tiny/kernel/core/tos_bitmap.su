@@ -1,0 +1,11 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_bitmap.c:20:17:tos_bitmap_create_empty	32	static
+tos_bitmap.c:39:17:tos_bitmap_create_full	32	static
+tos_bitmap.c:58:17:tos_bitmap_destroy	16	static
+tos_bitmap.c:67:17:tos_bitmap_set	16	static
+tos_bitmap.c:81:17:tos_bitmap_reset	16	static
+tos_bitmap.c:95:13:tos_bitmap_is_set	16	static
+tos_bitmap.c:107:13:tos_bitmap_is_reset	16	static
+tos_bitmap.c:119:13:tos_bitmap_lsb	32	static

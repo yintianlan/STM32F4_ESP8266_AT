@@ -1,0 +1,12 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_completion.c:20:17:tos_completion_create	16	static
+tos_completion.c:31:17:tos_completion_destroy	24	static
+tos_completion.c:52:17:tos_completion_pend_timed	40	static
+tos_completion.c:85:17:tos_completion_pend	16	static
+tos_completion.c:90:20:completion_do_post	24	static
+tos_completion.c:119:17:tos_completion_post	16	static
+tos_completion.c:124:17:tos_completion_post_all	16	static
+tos_completion.c:129:17:tos_completion_reset	24	static
+tos_completion.c:143:13:tos_completion_is_done	24	static

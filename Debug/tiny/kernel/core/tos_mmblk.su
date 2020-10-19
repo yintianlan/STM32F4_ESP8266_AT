@@ -1,0 +1,7 @@
+tos_sys.h:182:31:knl_object_verify	16	static
+tos_sys.h:187:32:knl_object_init	16	static
+tos_sys.h:192:32:knl_object_deinit	16	static
+tos_mmblk.c:20:17:tos_mmblk_pool_create	40	static
+tos_mmblk.c:57:17:tos_mmblk_pool_destroy	16	static
+tos_mmblk.c:73:17:tos_mmblk_alloc	24	static
+tos_mmblk.c:93:17:tos_mmblk_free	24	static

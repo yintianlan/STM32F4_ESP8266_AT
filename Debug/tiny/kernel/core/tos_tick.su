@@ -1,0 +1,14 @@
+tos_list.h:80:24:_list_add	24	static
+tos_list.h:88:24:_list_del	16	static
+tos_list.h:110:32:tos_list_add_tail	16	static
+tos_list.h:115:32:tos_list_del	16	static
+tos_list.h:138:31:tos_list_empty	16	static
+tos_task.h:372:32:task_state_reset_sleeping	16	static
+tos_task.h:402:32:task_state_set_sleeping	16	static
+tos_tick.c:20:17:tick_task_place	64	static
+tos_tick.c:51:17:tick_task_takeoff	40	static
+tos_tick.c:72:14:tick_list_add	24	static
+tos_tick.c:78:14:tick_list_remove	16	static
+tos_tick.c:84:14:tick_update	40	static
+tos_tick.c:118:18:tick_next_expires_get	32	static
+tos_tick.c:133:14:tos_tick_handler	8	static

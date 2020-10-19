@@ -1,0 +1,6 @@
+iCharArrayBuffer.c:8:6:ICharArrayInitEmpty	16	static
+iCharArrayBuffer.c:20:6:ICharArrayPutOne	16	static
+iCharArrayBuffer.c:50:6:ICharArrayPutOneFromIsr	16	static
+iCharArrayBuffer.c:76:6:ICharArrayHaveNext	24	static
+iCharArrayBuffer.c:91:6:ICharArrayGetNextOne	24	static
+iCharArrayBuffer.c:118:8:ICharArrayGetMany	32	static

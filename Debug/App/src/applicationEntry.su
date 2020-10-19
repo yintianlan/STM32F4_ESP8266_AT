@@ -1,0 +1,4 @@
+applicationEntry.c:20:13:printHello	8	static
+applicationEntry.c:27:13:poolInterfaceInit	24	static
+applicationEntry.c:39:6:initTask	16	static
+applicationEntry.c:63:6:applicationEntry	8	static

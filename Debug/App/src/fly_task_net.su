@@ -1,0 +1,5 @@
+fly_task_net.c:35:13:espcom_rec_callback	8	static
+fly_task_net.c:44:13:res_init	8	static
+fly_task_net.c:50:6:tcp_test0	24	static
+fly_task_net.c:78:13:net_main_task	32	static
+fly_task_net.c:115:6:fly_task_net_create	8	static

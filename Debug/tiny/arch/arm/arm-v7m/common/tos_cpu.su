@@ -1,0 +1,15 @@
+tos_cpu.c:20:18:tos_cpu_clz	16	static
+tos_cpu.c:59:14:tos_cpu_int_disable	8	static
+tos_cpu.c:64:14:tos_cpu_int_enable	8	static
+tos_cpu.c:69:20:tos_cpu_cpsr_save	8	static
+tos_cpu.c:74:14:tos_cpu_cpsr_restore	16	static
+tos_cpu.c:79:14:cpu_init	16	static
+tos_cpu.c:89:14:cpu_reset	8	static
+tos_cpu.c:94:14:cpu_sched_start	8	static
+tos_cpu.c:99:14:cpu_context_switch	8	static
+tos_cpu.c:104:14:cpu_irq_context_switch	8	static
+tos_cpu.c:109:14:cpu_systick_init	16	static
+tos_cpu.c:177:14:cpu_sleep_mode_enter	8	static
+tos_cpu.c:182:14:cpu_stop_mode_enter	8	static
+tos_cpu.c:187:14:cpu_standby_mode_enter	8	static
+tos_cpu.c:194:20:cpu_task_stk_init	32	static

@@ -1,0 +1,12 @@
+tos_at_socket.c:22:5:socket	32	static
+tos_at_socket.c:51:12:sockaddr2ip	40	static
+tos_at_socket.c:61:12:sockaddr2port	24	static
+tos_at_socket.c:68:5:connect	56	static
+tos_at_socket.c:94:5:recv	40	static
+tos_at_socket.c:120:5:recvfrom	40	static
+tos_at_socket.c:149:5:send	24	static
+tos_at_socket.c:156:5:sendto	24	static
+tos_at_socket.c:166:5:shutdown	24	static
+tos_at_socket.c:186:5:read	24	static
+tos_at_socket.c:193:5:close	24	static
+tos_at_socket.c:211:5:write	24	static
